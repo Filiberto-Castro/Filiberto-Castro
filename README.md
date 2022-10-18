@@ -1,6 +1,13 @@
-<div id="header" align="center">
+<div id="user-header" align="center">
 	<h1 align="center">Hi 👋🙂, I'm Filiberto </h1>
+	<h3>
+		<a href="user-header__content">
+			A passionate programmer from Guatemala
+		</a>
+	</h3>
 </div>
+
+<div></div>
 
 <div align="left">
 	<h3>🧰 Lenguages and Tools: </h3>
