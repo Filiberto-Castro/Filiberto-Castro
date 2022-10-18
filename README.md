@@ -1,7 +1,7 @@
 <div id="user-header" align="center">
 	<h1 align="center">Hi 👋🙂, I'm Filiberto </h1>
 	<h3>
-		A passionate about codes, a programmer from Guatemala 🇬🇹
+		A passionate about codes, a programmer from Guatemala
 	</h3>
 </div>
 
