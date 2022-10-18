@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<h1 align="center">Hi 👋:wave:, I'm Filiberto </h1>
+	<h1 align="center">Hi :wave:, I'm Filiberto </h1>
 </div>
 
 <!--
