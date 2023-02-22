@@ -12,10 +12,8 @@
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c++" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="blender" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/>&nbsp;
 	</div>
 </div>
 
