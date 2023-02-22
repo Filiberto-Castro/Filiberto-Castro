@@ -5,15 +5,18 @@
 	</h3>
 </div>
 
-<div></div>
-
 <div align="left">
-	<h3>🧰 Lenguages and Tools: </h3>
+	<h3>🧰 Lenguages: </h3>
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c++" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/>&nbsp;
+	</div>
+	
+	<h3>🔨 Tools: </h3>
+	<div>
+		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 	</div>
 </div>
 
