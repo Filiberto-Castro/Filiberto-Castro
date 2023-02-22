@@ -9,8 +9,8 @@
 	<h3>🧰 Lenguages: </h3>
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c++" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40"/>&nbsp;
 	</div>
 </div>
 
@@ -18,7 +18,9 @@
 	<h3>🔨 Tools: </h3>
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" width="40" height="40"/>&nbsp;
 	</div>
 </div>
 
