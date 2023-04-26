@@ -1,7 +1,7 @@
 <div id="user-header" align="center">
-	<h1 align="center">Hi 👋, I'm Filiberto Castro </h1>
+	<h1 align="center">Hola 👋, Soy Filiberto Castro </h1>
 	<h3>
-		A passionate about codes, a programmer from Guatemala
+		Un apasionado por los códigos, por la programación!
 	</h3>
 </div>
 
