@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-	<h3>🧰 Lenguages: </h3>
+	<h3>🧰 Lenguajes: </h3>
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/>&nbsp;
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-	<h3>🔨 Tools: </h3>
+	<h3>🔨 Herramientas: </h3>
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@
 <hr>
 
 <div align="center">
-	<h3>📋 History: </h3>
+	<h3>📋 Historial: </h3>
 	
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Filiberto-Castro&theme=tokyonight)](https://github.com/Filiberto-Castro/github-readme-stats)
 
