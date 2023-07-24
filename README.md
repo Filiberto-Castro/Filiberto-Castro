@@ -1,8 +1,8 @@
 <div id="user-header" align="center">
-	<h1 align="center">Hola 👋, Soy Filiberto Castro </h1>
-	<h3 align="center"><code>Estudiante de Ing. Sistemas y Desarrollador Android Jr.</code></h3>
-	<p>Soy un estudiante de <strong><em>Ingeniería en Sistemas, un desarrollador junior de Android</em></strong> y un entusiasta de la tecnología. Me encanta explorar nuevas tecnologías, resolver problemas y crear aplicaciones innovadoras que mejoren la experiencia de los usuarios. Estoy comprometido con el aprendizaje continuo y siempre estoy buscando formas de mejorar mis habilidades en el desarrollo de aplicaciones móviles.
-	</p>
+	<h1 align="center">Hola 👋 Soy Filiberto Castro </h1>
+	<h2 align="center"><code>Estudiante de Ing. en Sistemas y Desarrollador Android Jr.</code></h3>
+	<h3>Soy estudiante de <strong><em>Ingeniería en Sistemas, un desarrollador Android Jr.</em></strong> y un entusiasta de la tecnología. Me encanta explorar nuevas tecnologías, resolver problemas y crear aplicaciones innovadoras que mejoren la experiencia de los usuarios. Estoy comprometido con el aprendizaje continuo y siempre estoy buscando formas de mejorar mis habilidades en el desarrollo de aplicaciones móviles.
+	</h3>
 </div>
 
 <div align="center">
